@@ -12,10 +12,17 @@ export function ArtworkCard({ artwork, actionSlot, noteSlot }: Props) {
   const imageUrl = hasImage ? buildIiifImageUrl(artwork.image_id!, 400) : null;
 
   return (
-    <div>
-      <div>
+    <div
+      className="
+        card bg-base-100 border border-base-300 shadow-sm overflow-hidden
+        transition-all duration-200
+        hover:-translate-y-0.5 hover:shadow-lg hover:border-base-content/20
+      "
+    >
+      <figure className="aspect-[4/3] bg-base-200">
         {imageUrl ? (
           <img
+            className="w-full h-full object-cover transition-transform duration-300 hover:scale-[1.02]"
             src={imageUrl}
             alt={artwork.title}
             loading="lazy"
@@ -24,16 +31,24 @@ export function ArtworkCard({ artwork, actionSlot, noteSlot }: Props) {
             }}
           />
         ) : (
-          <div>No Image</div>
+          <div className="w-full h-full grid place-items-center text-base-content/60">
+            No Image
+          </div>
         )}
-      </div>
+      </figure>
 
-      <div>
-        <h3>{artwork.title}</h3>
-        <p>{artwork.artist_title}</p>
+      <div className="card-body gap-3">
+        <div className="space-y-1">
+          <h3 className="card-title text-base md:text-lg leading-tight">
+            {artwork.title}
+          </h3>
+          <p className="text-sm text-base-content/70">{artwork.artist_title}</p>
+        </div>
 
         {noteSlot ? <div>{noteSlot}</div> : null}
-        {actionSlot ? <div>{actionSlot}</div> : null}
+        {actionSlot ? (
+          <div className="card-actions justify-end">{actionSlot}</div>
+        ) : null}
       </div>
     </div>
   );
