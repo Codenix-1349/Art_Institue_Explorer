@@ -47,15 +47,16 @@ Users can browse artworks, save favourites to a personal gallery, and attach not
   </tr>
   <tr>
     <td>
-      <img alt="Search View"
-           width="420"
-           src="https://github.com/user-attachments/assets/37737553-c9aa-44fc-8bfd-17b20bc8ac31" />
-    </td>
-    <td>
       <img alt="Gallery View"
            width="420"
            src="https://github.com/user-attachments/assets/328e031f-85b8-42b2-81a8-e313d78538e8" />
     </td>
+    <td>
+      <img alt="Search View"
+           width="420"
+           src="https://github.com/user-attachments/assets/37737553-c9aa-44fc-8bfd-17b20bc8ac31" />
+    </td>
+    
   </tr>
 </table>
 
@@ -200,3 +201,4 @@ http://localhost:5173
 Patrick Neumann  
 GitHub: https://github.com/Codenix-1349  
 LinkedIn: https://linkedin.com/in/patrick-neumann-532367276  
+
