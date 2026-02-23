@@ -1,5 +1,5 @@
 # 🎨 Art Institute Explorer  
-> Modern React + TypeScript art collection explorer with API integration, Zod validation & persistent favourites  
+> Modern React + TypeScript art collection explorer with REST-API integration, Zod validation & persistent favourites  
 > *(React · Vite · TypeScript · TailwindCSS · Zod · AIC API)*
 
 <p align="center">
@@ -201,4 +201,5 @@ http://localhost:5173
 Patrick Neumann  
 GitHub: https://github.com/Codenix-1349  
 LinkedIn: https://linkedin.com/in/patrick-neumann-532367276  
+
 
