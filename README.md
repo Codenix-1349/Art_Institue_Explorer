@@ -3,21 +3,15 @@
 > *(React · Vite · TypeScript · TailwindCSS · Zod · AIC API)*
 
 <p align="center">
-  <img alt="React" title="React" height="36" style="margin:0 18px;"
-       src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-  <img alt="TypeScript" title="TypeScript" height="36" style="margin:0 18px;"
-       src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
-  <img alt="Vite" title="Vite" height="36" style="margin:0 18px;"
-       src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" />
-  <img alt="Tailwind CSS" title="Tailwind CSS" height="36" style="margin:0 18px;"
-       src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" />
+  <img src="https://img.shields.io/badge/React-UI-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-Type%20Safe-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-Build-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Styling-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 <p align="center">
-  <img alt="Zod" title="Zod Runtime Validation"
-       src="https://img.shields.io/badge/Zod-runtime%20validation-0ea5e9?style=for-the-badge" />
-  <img alt="Art Institute of Chicago API"
-       src="https://img.shields.io/badge/AIC%20API-artworks%20search-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zod-Runtime%20Validation-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-Art%20Institute%20of%20Chicago-111827?style=for-the-badge" />
 </p>
 
 ---
@@ -201,5 +195,6 @@ http://localhost:5173
 Patrick Neumann  
 GitHub: https://github.com/Codenix-1349  
 LinkedIn: https://linkedin.com/in/patrick-neumann-532367276  
+
 
 
