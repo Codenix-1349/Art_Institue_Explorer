@@ -11,8 +11,12 @@
        src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" />
   <img alt="Tailwind CSS" title="Tailwind CSS" height="40" style="margin:0 20px;"
        src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" />
-  <img alt="Zod" title="Zod Runtime Validation" height="40" style="margin:0 20px;"
-       src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" />
+  <img alt="Zod" title="Zod" height="40" style="margin:0 20px;"
+       src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" />
+</p>
+
+<p align="center">
+  <sub>React · TypeScript · Zod · REST API · TailwindCSS · Vite</sub>
 </p>
 
 ---
@@ -196,6 +200,7 @@ http://localhost:5173
 Patrick Neumann  
 GitHub: https://github.com/Codenix-1349  
 LinkedIn: https://linkedin.com/in/patrick-neumann-532367276  
+
 
 
 
