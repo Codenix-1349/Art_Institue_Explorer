@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <sub>React · TypeScript · Zod · REST API · TailwindCSS · Vite</sub>
+  <sub>React · TypeScript · Vite · TailwindCSS  · ZOD · REST API · </sub>
 </p>
 
 ---
@@ -200,6 +200,7 @@ http://localhost:5173
 Patrick Neumann  
 GitHub: https://github.com/Codenix-1349  
 LinkedIn: https://linkedin.com/in/patrick-neumann-532367276  
+
 
 
 
